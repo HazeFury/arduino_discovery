@@ -1,6 +1,6 @@
 # arduino_discovery
 
-My first assemjblies using an Arduino board
+My first assemblies using an Arduino board
 
 ## Content
 
