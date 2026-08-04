@@ -36,3 +36,10 @@ My first assemblies using an Arduino board
 
   <br>
 </div>
+
+<div align="center">
+<br>
+  <img src="./assets/images/motor_setup_tinkercad.png" alt="motor setup on tinkercad" width="600" />
+
+  <br>
+</div>
